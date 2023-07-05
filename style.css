@@ -1,0 +1,31 @@
+body{
+    padding: 40px 300px;
+    
+}
+.head{
+    margin-top: 20px;
+    text-align: center;
+}
+.p1{
+    margin-top: 18px;
+}
+.p2{
+    margin-top: 60px;
+    background-color: aliceblue;
+    padding: 20px 30px;
+}
+.container{
+    border: 1px solid;
+}
+.ob-p{
+    margin-left: 30px;
+}
+.edu{
+     background-color: aliceblue;
+    padding: 20px 30px;
+}
+.institute{
+    display: flex;
+    
+
+}
